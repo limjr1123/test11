@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+ff05aec44a99e145f1fff54a9ec6f27bc5aa278b refs/remotes/origin/dependabot/maven/com.puppycrawl.tools-checkstyle-8.29
+349f554d689e697a9134d40a7626b4fa9dfc9bfe refs/remotes/origin/dependabot/maven/commons-collections-commons-collections-3.2.2
+40f5ecacf9561ee8982ecd96f2aa2aabcbfdb126 refs/remotes/origin/dependabot/maven/org.cryptacular-cryptacular-1.2.4
+55e4d308cd142d3a9273915c7bcba6c7f43e6844 refs/remotes/origin/master
